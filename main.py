@@ -414,13 +414,11 @@ def login_page():
             - ✅ Penilaian Risiko Karyawan
             - ✅ Analisis Dampak Finansial  
             - ✅ Dashboard Lengkap
-            - ✅ Manajemen Sistem
             
             **👨‍💼 HR Manager**
             - ✅ Penilaian Risiko Karyawan
             - ✅ Analisis Dampak Finansial
             - ✅ Dashboard
-            - ❌ Manajemen Sistem
             
             **💰 Financial Analyst**
             - ❌ Penilaian Risiko Karyawan
